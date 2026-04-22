@@ -1,7 +1,8 @@
 # ABOUT-US
 About Us
 Who Are We?
-TRANSACTIONS & SUPPORT PI is an innovative digital platform dedicated to simplifying access to essential social and financial services using Pi Network technology. Under the leadership of William Masumbuko Kehegwa, we take pride in being a sturdy bridge between the world of digital currency (Crypto) and the daily needs of Tanzanians.
+TRANSACTIONS & SUPPORT PI.
+is an innovative digital platform dedicated to simplifying access to essential social and financial services using Pi Network technology. Under the leadership of William Masumbuko Kehegwa, we take pride in being a sturdy bridge between the world of digital currency (Crypto) and the daily needs of Tanzanians.
 Our Vision
 To be the premier one-stop-shop hub that empowers Pi Network members (Pioneers) to use their balance to access government, social, and commercial services with safety and reliability.
 Services We Offer
